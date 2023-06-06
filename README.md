@@ -29,7 +29,8 @@ My name is _**Samantha Fenton.**_
 
 ![](https://upload.wikimedia.org/wikipedia/commons/7/7e/Person-tree.jpg "Look at me, I'm growing!!!:joy:")
 
-Please find out more about me and view my work on my GitHub profile [HERE](
+Please find out more about me and view my work on my GitHub profile [HERE](https://github.com/SamanthaFenton)
+
 
 
 
