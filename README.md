@@ -26,7 +26,7 @@
 
 ## My name is Samantha Fenton, I am looking to change my life by developing skills and pursuing a career in coding.  I have adopted a growth mindset...
 
-
+![](https://upload.wikimedia.org/wikipedia/commons/7/7e/Person-tree.jpg "Look at me, I'm growing!!!:joy:")
 
 
 
