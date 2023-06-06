@@ -24,8 +24,8 @@
 3.  _**Don't get disheartened!  Remind yourself mistakes are a process of learning.**_  
 ***
 
-### My name is Samantha Fenton.
-*I am looking to change my life by developing skills and pursuing a career in coding.  I have adopted a growth mindset...*
+My name is _**Samantha Fenton.**_  
+*"I am looking to change my life by developing skills and pursuing a career in coding.  I have adopted a growth mindset..."*
 
 ![](https://upload.wikimedia.org/wikipedia/commons/7/7e/Person-tree.jpg "Look at me, I'm growing!!!:joy:")
 
