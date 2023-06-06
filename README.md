@@ -1,7 +1,7 @@
 # Reading-notes-LAB01b
 ***
 
-## GROWTH MINDSET
+## 🧠GROWTH MINDSET
 ***
 
 ### What is a Growth Mindset?
@@ -15,7 +15,7 @@
 - Be inspired by the success of others 
 ***
 
-## Exercises to support a growth mindset
+## :weight_lifting_woman:Exercises to support a growth mindset
 
 1.  _**Develop a personal mantra to repeat to yourself daily to support yourself to maintain a growth mindset**_  
 
@@ -24,7 +24,7 @@
 3.  _**Don't get disheartened!  Remind yourself mistakes are a process of learning.**_  
 ***
 
-My name is _**Samantha Fenton.**_  
+:raising_hand_woman:My name is _**Samantha Fenton.**_  
 *"I am looking to change my life by developing skills and pursuing a career in coding.  I have adopted a growth mindset..."*
 
 ![](https://upload.wikimedia.org/wikipedia/commons/7/7e/Person-tree.jpg "Look at me, I'm growing!!!:joy:")
