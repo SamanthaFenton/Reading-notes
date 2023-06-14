@@ -1,4 +1,61 @@
-# Reading-notes-LAB01b
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1>Samantha Fenton - Coding Bootcamp June 2023 - Tech Educators</h1>
+        <img src=""()>
+        <h2>Learning Resources</h2>
+        <p> Please select the class below for notes</p>
+        <h3>Contents</h3>
+        <h2>102</h2>
+            <ul>
+                <li>Setting up Accounts & Markdown</li>
+                <li>The Coder's Computer</li>
+                <li>Revisions & The Cloud</li>
+                <li>Structure Web Pages with HTML</li>
+                <li>Design Web Pages with CSS</li>
+                <li>Activate Web Pages with JavaScript</li>
+                <li>Programming with JavaScript</li>
+                <li>Operators & Loops</li>
+            </ul>
+        <h2>201</h2>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+    </header>
+    <footer>
+        <p class="celebrate">Congratulations you have completed 102 & 201!</p>
+
+    </footer>
+    
+</body>
+</html>
+
+
+
+
+
+
 ***
 
 ## 🧠GROWTH MINDSET
