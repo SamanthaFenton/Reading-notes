@@ -26,73 +26,83 @@
             </ul>
         <h2>201</h2>
             <ul>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li>Setup Developer Toolbelt</li>
+                <li>Introduction To Web Development</li>
+                <li>List, The Box Model, and Loops</li>
+                <li>Links, Layouts, and Functions</li>
+                <li>Images, Color, Text, and more Work With Functions</li>
+                <li>Domain Modeling, Intro to the DOM, and Object Literal Notation</li>
+                <li>HTML Tables and JS Conastructor Functions</li>
+                <li>Layout With CSS</li>
+                <li>Forms and Events</li>
+                <li>Debugging and Error Handling</li>
+                <li>Audio & Video in HTML; Domain Modling Revisited</li>
+                <li>Canvas and ChartJS</li>
+                <li>Introduction to Persistence with Local Storage</li>
+                <li>Documentation, Project Selection, & Team Workflow</li>
+                <li>Course Recap & 301 Preview</li>
             </ul>
+        <h2>301</h2>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
     </header>
     <footer>
         <p class="celebrate">Congratulations you have completed 102 & 201!</p>
 
     </footer>
-    
+
 </body>
 </html>
 
-
-
-
-
-
-***
+---
 
 ## 🧠GROWTH MINDSET
-***
+
+---
 
 ### What is a Growth Mindset?
-*A Growth Mindset is the belief that a person has the ability to improve themselves, their abilities or their work, by positive thought, action and learning for the purpose of bettering themselves and their skills*
-***
+
+_A Growth Mindset is the belief that a person has the ability to improve themselves, their abilities or their work, by positive thought, action and learning for the purpose of bettering themselves and their skills_
+
+---
+
 #### How to achieve a Growth Mindset
+
 - Embrace challenges
 - Persist when faced with obstacles
 - Put the effort in
 - To learn from criticism
-- Be inspired by the success of others 
-***
+- Be inspired by the success of others
+
+---
 
 ## :weight_lifting_woman:Exercises to support a growth mindset
 
-1.  _**Develop a personal mantra to repeat to yourself daily to support yourself to maintain a growth mindset**_  
+1.  _**Develop a personal mantra to repeat to yourself daily to support yourself to maintain a growth mindset**_
 
-2.  _**Take time out through the day to re focus yourself to the values of a growth mindset using mindfulness techniques**_  
+2.  _**Take time out through the day to re focus yourself to the values of a growth mindset using mindfulness techniques**_
 
-3.  _**Don't get disheartened!  Remind yourself mistakes are a process of learning.**_  
-***
+3.  _**Don't get disheartened! Remind yourself mistakes are a process of learning.**_
 
-:raising_hand_woman:My name is _**Samantha Fenton.**_  
-*"I am looking to change my life by developing skills and pursuing a career in coding.  I have adopted a growth mindset..."*
+---
+
+:raising\*hand*woman:My name is **\*Samantha Fenton.**\_  
+*"I am looking to change my life by developing skills and pursuing a career in coding. I have adopted a growth mindset..."\_
 
 ![](https://upload.wikimedia.org/wikipedia/commons/7/7e/Person-tree.jpg "Look at me, I'm growing!!!:joy:")
 
 Please find out more about me and view my work on my GitHub profile [HERE](https://github.com/SamanthaFenton)
-
-
-
-
-
-
-
-
-
